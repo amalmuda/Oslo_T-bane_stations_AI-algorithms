@@ -1,5 +1,7 @@
 # Oslo_T-bane_stations_AI-algorithms
 
+What if the subway network in Oslo was redesigned? How to use the shortest possible distance from station to station? Can artificial intelligence find shorter routes?
+
 In this program I try to implement three different evolutionary algorithms to find the shortest distance between subway stations in Oslo. The program is written with Python and is in English.
 
 I currently only have 25 subway stations, but plan to add more in the future. I also have a desire to, in addition to optimizing for distance, also have the opportunity in this program to optimize for time. It would have been interesting to see if the shortest route in distance in Oslo also corresponds to the shortest possible time.
